@@ -37,7 +37,42 @@ AND This:
 
 
 ![Image of a horse]
-(horse.jpeg)
+(horse.jpeg)  
+
+> Hello
+>> I am indented
+>>>A bit More  
+
+Split lines  
+
+---
+
+More Text  
+
+
+# Lists
+1. Item 1  
+1.1 Item 1.1  
+2. Another  
+2.2 And Under  
++ One
++ Two
+
+# A Table
+| Col 1 | Col 2|
+|-------|:------:|
+| This  | is   |
+| an    | example |
+| of    | a centered Column |   
+
+
+# A Checklist
+- [ ] Check me
+
+
+
+
+
 
 
 
